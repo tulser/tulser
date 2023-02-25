@@ -2,8 +2,6 @@
 
 I primarily develop applications and software for Linux using C or C++.
 
-Although I have been interested in programming and computers since I was young, it fully kindled once I went through high school and discovered inspiration. My first love was Python, but becoming bold before university led me towards development systems supporting native execution; I now crave performance and safety.
-
 As of now, I'm working on projects (or working towards development) involving image/GPU processing, AI, or applications development.
 My current detailed aspirations and interests include:
 - Creating and contributing to software on Linux.
