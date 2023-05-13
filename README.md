@@ -1,5 +1,4 @@
-#### Hi, it's Tulser here.
-
+### Hello,
 I primarily develop native applications and software for Linux.
 
 As of now, I'm learning about or working on projects involving image/GPU processing, AI, or applications development. Outside of that, I contribute to anything else that I have certain stake in.
