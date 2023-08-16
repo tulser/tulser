@@ -1,3 +1,5 @@
+<img src="https://myreadme.vercel.app/api/embed/tulser?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 Hello
 
 I am typically focused in developing native software and user applications for Linux.
