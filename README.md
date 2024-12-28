@@ -1,4 +1,4 @@
-[Personal website (partially complete/under construction)](wcyates.xyz)
+[Personal website (partially complete/under construction)](http://wcyates.xyz)
 
 Hi, I'm Connor Yates.
 
