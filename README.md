@@ -1,8 +1,6 @@
-[Personal website (partially complete/under construction)](http://wcyates.xyz)
+[Personal website](wcyates.xyz)
 
-Hi, I'm Connor Yates.
-
-I'm a software engineer with interests in project management, graphics, real-time artificial intelligence, and application UI/UX.
+I'm a software engineer with interests in graphics, real-time programs, and general applications for users.
 I primarily use and develop applications on Linux/Unix, particularly Debian and Debian-based systems.
 Historically, I have made or helped make real-time applications, mainly in robotics and gerontechnology, making extensive use of Python to create these systems to periodically execute data processing pipelines using sensor information.
 
@@ -25,4 +23,5 @@ Historically, I have made or helped make real-time applications, mainly in robot
 * Docker (working on applications)
 
 ## Current Work
-Currently trialing Zig for new projects in addition to Rust and C++.
+* Currently trialing Zig and picking up Rust.
+* Figuring out Docker for reproducible builds and personal hosting.
