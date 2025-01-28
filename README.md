@@ -1,4 +1,4 @@
-[Personal website](wcyates.xyz)
+[Personal website](https://wcyates.xyz)
 
 I'm a software engineer with interests in graphics, real-time programs, and general applications for users.
 I primarily use and develop applications on Linux/Unix, particularly Debian and Debian-based systems.
