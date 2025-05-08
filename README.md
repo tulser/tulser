@@ -7,8 +7,11 @@ Historically, I have made or helped make real-time applications, mainly in robot
 ## Other Developer Accounts
 [projects.blender.org](https://projects.blender.org/tulser) (Blender)
 
-## Current Work and Ventures
+## Current Personal Projects and Ventures
 * Currently trialing Zig and picking up Rust for projects.
 * Picking up Docker for reproducible builds and personal web hosting.
 * Software for locally organizing and displaying information.
 * Dabbling in 3D graphics
+
+**Currently looking for employment.**
+**Please message myself at `self@wcyates.xyz` with any opportunities.**
