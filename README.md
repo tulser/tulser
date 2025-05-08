@@ -13,5 +13,4 @@ Historically, I have made or helped make real-time applications, mainly in robot
 * Software for locally organizing and displaying information.
 * Dabbling in 3D graphics
 
-**Currently looking for employment.**
-**Please message myself at `self@wcyates.xyz` with any opportunities.**
+**Currently looking for employment. Those interested in employing me can message me at `self@wcyates.xyz` with any opportunities.**
