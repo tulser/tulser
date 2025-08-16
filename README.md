@@ -8,6 +8,7 @@ Historically, I have made or helped make real-time applications, mainly in robot
 [projects.blender.org](https://projects.blender.org/tulser) (Blender)
 
 ## Current Personal Projects and Ventures
+* Making \[unofficial/personal\] debian source packages for software not yet included in Debian repositories or for patching existing source packages in debian.
 * Currently trialing Zig and picking up Rust for projects.
 * Picking up Docker for reproducible builds and personal web hosting.
 * Software for locally organizing and displaying information.
